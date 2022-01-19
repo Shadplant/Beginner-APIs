@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 namespace _18_1_22_Beginner_APIs.Controllers
 {
     [Route("products")]
-    public class ProductController : ControllerBase
+    public class ProductController : Controller
     {
         IProductRepository ProductRepository;
 

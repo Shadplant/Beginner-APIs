@@ -12,7 +12,7 @@
     "_18_1_22_Beginner_APIs": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "products",
+      "launchUrl": "picture",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -21,7 +21,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "products",
+      "launchUrl": "picture",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
